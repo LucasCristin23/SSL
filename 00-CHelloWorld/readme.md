@@ -11,3 +11,7 @@ Versiones de C que compila:
 * C17
 * C2X
 
+## Como uso la version c23
+Descargue el compilador GCC a traves de Mingw obteniendo la version 14.2.0
+Cuando compilo el programa pongo el flag `-std=23`
+
